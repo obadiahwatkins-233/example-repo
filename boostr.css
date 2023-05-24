@@ -1,5 +1,19 @@
+/*Global CSS*/
+
 html,body{
     background-color: rgb(82, 82, 82);
+}
+
+/*Title Centering*/
+h1 {
+    text-align: center;
+}
+
+/*Selected Email 3rd Col*/
+h3 {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    text-decoration: underline;
 }
 
 /*Navbar*/
@@ -16,11 +30,6 @@ html,body{
 /*Main Container*/
 .main-container {
     border: 6px solid rgb(0, 0, 0);
-}
-
-/*Title Centering*/
-h1 {
-    text-align: center;
 }
 
 /*Secondary Container*/
@@ -65,13 +74,6 @@ h1 {
 /*Search Bar Centering*/
 .search-bar-center {
     text-align: center;
-}
-
-/*Selected Email 3rd Col*/
-h3 {
-    margin-top: 35px;
-    margin-bottom: 25px;
-    text-decoration: underline;
 }
 
 /*Compose Button*/
